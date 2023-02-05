@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 [![Juunew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juunew)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
