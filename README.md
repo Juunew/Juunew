@@ -4,6 +4,9 @@
 
 [![Juunew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juunew)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://loving-toque-271.notion.site/public-class-Resume-a5e35dbd99f04631a96819a27a323cfc">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 <!--
 **Juunew/Juunew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
